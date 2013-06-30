@@ -1,7 +1,12 @@
 Hello World
+And Hello Tucson!
 Branch and Merge testing.
-Here is the initial commit text.
+Here is the initial commit text--presented with feeling.
 
 
 Makeing some changes for Path A.
 the quick brown Fox jumped over the lazy dog.
+
+
+Now this too has a second commit that makes it so there will have to be a merge.
+
