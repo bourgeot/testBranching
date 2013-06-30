@@ -1,3 +1,7 @@
 Hello World
 Branch and Merge testing.
 Here is the initial commit text.
+
+
+Makeing some changes for Path A.
+the quick brown Fox jumped over the lazy dog.
