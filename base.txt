@@ -1,8 +1,14 @@
 Hello World
+And Hello Tucson!
 Branch and Merge testing.
-Here is the initial commit text--now with conflicting content!
+Here is the initial commit text--presented with feeling and now with no conflicting content!
 
+Makeing some changes for Path A.
+the quick brown Fox jumped over the lazy dog.
+ls
 Path B. Here is some other text that has nothing to do with Path A.
 The two aren't compatible because this is here and that is there.
 
 Now what happens?
+
+Now it is all set for merging.
