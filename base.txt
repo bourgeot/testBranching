@@ -1,3 +1,8 @@
 Hello World
 Branch and Merge testing.
 Here is the initial commit text.
+
+Path B. Here is some other text that has nothing to do with Path A.
+The two aren't compatible because this is here and that is there.
+
+Now what happens?
